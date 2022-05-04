@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>19393581253-om46m8q1pf3mbgk5866ara15ej1vrfbj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.19393581253-om46m8q1pf3mbgk5866ara15ej1vrfbj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOYF2wjlkwzE8Ze0_HYpj3eAW19w-hcLY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>19393581253</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.SneakerApps</string>
+	<key>PROJECT_ID</key>
+	<string>sneakerapp-81a7a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sneakerapp-81a7a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:19393581253:ios:522e4a991e324c10f520ac</string>
+</dict>
+</plist>
